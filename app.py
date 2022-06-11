@@ -6,7 +6,7 @@ app=Flask(__name__)
 
 @app.route('/',methods=['GET'])
 def index():
-    return "hello world this is 2nd build"
+    return "hello world this is from manoj"
 
 
 
